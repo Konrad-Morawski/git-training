@@ -1,4 +1,4 @@
-This is the main-file
+This is final form of the code.
 
 And only now can the second file be safely added.
 
